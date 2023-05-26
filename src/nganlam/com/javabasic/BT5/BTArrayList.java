@@ -26,7 +26,7 @@ public class BTArrayList {
         List<String> nhanvienList = new ArrayList<String>();
         nhanvienList.add(tenNV);
         nhanvienList.add(diachiNV);
-        
+
         for (String thongtinNV : nhanvienList){
             System.out.println(thongtinNV);
         }
